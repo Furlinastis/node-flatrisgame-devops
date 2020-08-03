@@ -17,7 +17,8 @@
     - [x] Remove START/STOP actions
   - [x] Clear onboarding screens (postpone UI this time until game mechanics are confirmed)
   - [x] Update fixtures and tests
-  - [x] Add 2nd player
+  - [x] Add 2nd player 
+  
     - [x] Start game when both players are ready
     - [x] Render other player's grid in the background
 - [x] Create server MVP database
